@@ -1,4 +1,6 @@
-Coloque seu nome na lista sgeuindo o padrão!
+Coloque seu nome na lista seguindo o padrão!
 
-### 001 - Igor Nuves
-### 002 - 
+### 001 - Igor Nunes
+### 002 - Rafael Resck
+### 003 - DigitalHouse
+
